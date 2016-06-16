@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 生成校验码
-https://honmaple.com/blog/view/29
 """
 
 import os
